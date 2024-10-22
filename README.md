@@ -44,4 +44,4 @@ Real Spectrogram Examples:
 
 
 Generated Spectrogram Examples:
-You can listen to the generated audio samples in the samples folder.
+You can listen to the generated audio samples in the [samples](https://github.com/prachitui/Diffusion-Based-Music-Generation-from-Spectrograms/tree/main/samples) folder.
