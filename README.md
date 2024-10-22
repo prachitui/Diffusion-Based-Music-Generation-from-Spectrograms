@@ -38,10 +38,6 @@ The model is trained using the following:
 
 # Results
 The model successfully generates spectrograms that resemble real musical patterns, which are converted back into audio. The generated audio shows potential for realistic music synthesis 
-in the classical genre. Below are some spectrograms and audio outputs from the model:
+in the classical genre. 
 
-Real Spectrogram Examples:
-
-
-Generated Spectrogram Examples:
 You can listen to the generated audio samples in the [samples](https://github.com/prachitui/Diffusion-Based-Music-Generation-from-Spectrograms/tree/main/samples) folder.
